@@ -36,6 +36,7 @@ Ya vamos a ver por qué.
 _**"Esto"**_ no es fácil de expresar por dos razones:
 
 * Los beneficios aún no se ven fácilmente y a simple vista.
+
 * Es algo que siempre estuvo en el espíritu de este equipo y, con avances y retrocesos, siempre se fue buscando.
 
 ---
@@ -64,7 +65,7 @@ name: que-es-esto
 layout: false
 ## ¿Que es _**"esto"**_?
 
-> _XPers_ often joke, with some justification, that Scrum is just XP without the technical practices that make it work.
+> _XPers often joke, with some justification, that Scrum is just XP without the technical practices that make it work._
 >
 > — Martin Fowler. [Ver post](https://martinfowler.com/bliki/FlaccidScrum.html)
 
@@ -127,12 +128,22 @@ name: que-tiene-que-ver-con-2018
 layout: false
 ## ¿Y que tiene que ver 2018 con _**"esto"**_?
 
-Bueno, en _**"esto"**_ es en lo que nos estuvimos esforzando este último año, tenemos algunos avances y estamos orientados. Ejemplos:
+Bueno, en _**"esto"**_ es en lo que nos estuvimos esforzando este último año, tenemos algunos avances y estamos orientados.
+
+--
+
+Ejemplos:
 
 * Estamos trabajando en _desarmar_ Doppler.
+
 * Estamos introduciendo test automatizados con integración continua.
+
 * Estamos introduciendo _continuous development_.
+
 * Estamos aprendiendo a trabajar en pasos más pequeños.
+
 * Estamos más orgullosos de nuestro trabajo y de nuestro producto.
+
+--
 
 Y esperamos seguir mejorando en _**"esto"**_, ya que esta es la manera de ser más productivos, competitivos, permanecer en el negocio y trabajar más felices.
