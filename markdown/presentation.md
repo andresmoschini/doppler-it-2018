@@ -2,7 +2,7 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# _**"Esto"**_ que se estuvo haciendo en 2018 en el equipo de desarrollo de Doppler
+# _**"Esto"**_ que estuvo haciendo el equipo de desarrollo de Doppler durante 2018
 
 ---
 name: que-es-esto
@@ -35,9 +35,9 @@ Ya vamos a ver por qué.
 
 _**"Esto"**_ no es fácil de expresar por dos razones:
 
-* Los beneficios aún no se ven fácilmente y a simple vista.
+* Los beneficios aún no se ven fácilmente a simple vista.
 
-* Es algo que siempre estuvo en el espíritu de este equipo y, con avances y retrocesos, siempre se fue buscando.
+* Es algo que siempre estuvo en el espíritu del equipo y, con avances y retrocesos, siempre fue buscando.
 
 ---
 name: necesidad-de-esto
@@ -56,9 +56,9 @@ Pero, aunque sea difícil de expresar, puedo estar seguro de que _**"esto"**_ qu
 
 Esa es una frase de la contratapa de un libro que estoy recomendando últimamente, pero que además de al libro, creo que puede aplicarse a _**"esto"**_ que estoy tratando de transmitir.
 
-Probablemente, ya todos se dieron cuenta que hay empresas y productos tecnológicos que se están moviendo de una forma diferente, van más rápido, resuelven los problemas del usuario, tal vez no son muy potentes (o si), pero tienen eso que el usuario necesita.
+Todos han visto que hay empresas y productos tecnológicos que se están moviendo de una forma diferente, van más rápido, resuelven los problemas del usuario, tal vez no son muy potentes (o si), pero tienen eso que el usuario necesita.
 
-La mayoría de esas _empresas/productos/equipos_, tienen unas características comunes, unas características que hace que sean exitosas. Estas características no son nuevas, el tema es que cada vez más están aprendiendo a sacar provecho de ellas y quienes no las tengan van a quedar afuera.
+La mayoría de esas _empresas/productos/equipos_, tienen unas características comunes que hacen que sean exitosas. Estas características no se descubrieron ayer, el tema es que cada vez más están aprendiendo a sacar provecho de ellas y quienes no las tengan van a quedar afuera.
 
 ---
 name: que-es-esto
@@ -69,7 +69,7 @@ layout: false
 >
 > — Martin Fowler. [Ver post](https://martinfowler.com/bliki/FlaccidScrum.html)
 
-_**"Esto"**_ no es solo ser _Ágiles_, es serlo de la forma en que funciona.
+_**"Esto"**_ no es solo ser _Ágiles_, sino serlo de la forma en que funciona.
 
 ---
 name: que-es-lo-que-funciona
@@ -82,7 +82,7 @@ layout: false
 
 --
 
-* Remover barreras y los elementos que privan a la gente de estar orgulla de su trabajo.
+* Remover barreras y elementos que privan a la gente de estar orgullosa de su trabajo.
 
 --
 
@@ -128,13 +128,13 @@ name: que-tiene-que-ver-con-2018
 layout: false
 ## ¿Y que tiene que ver 2018 con _**"esto"**_?
 
-Bueno, en _**"esto"**_ es en lo que nos estuvimos esforzando este último año, tenemos algunos avances y estamos orientados.
+En _**"esto"**_ es en lo que nos estuvimos esforzando durante 2018, tenemos varios avances y estamos orientados.
 
 --
 
 Ejemplos:
 
-* Estamos trabajando en _desarmar_ Doppler.
+* Estamos trabajando en _desarmar_ Doppler (micro-servicios).
 
 * Estamos introduciendo test automatizados con integración continua.
 
@@ -146,4 +146,4 @@ Ejemplos:
 
 --
 
-Y esperamos seguir mejorando en _**"esto"**_, ya que esta es la manera de ser más productivos, competitivos, permanecer en el negocio y trabajar más felices.
+Y esperamos seguir mejorando en _**"esto"**_, ya que es la manera de ser más productivos, competitivos, permanecer en el negocio y trabajar más felices.
