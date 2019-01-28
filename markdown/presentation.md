@@ -37,7 +37,7 @@ _**"Esto"**_ no es fácil de expresar por dos razones:
 
 * Los beneficios aún no se ven fácilmente a simple vista.
 
-* Es algo que siempre estuvo en el espíritu del equipo y, con avances y retrocesos, siempre fue buscando.
+* Es algo que siempre estuvo en el espíritu del equipo y, con avances y retrocesos, siempre fue buscado.
 
 ---
 name: necesidad-de-esto
@@ -86,7 +86,7 @@ layout: false
 
 --
 
-* Automatizar y simplificar proceso de publicación.
+* Automatizar y simplificar los procesos de publicación.
 
 --
 
