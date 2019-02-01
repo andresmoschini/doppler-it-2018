@@ -2,7 +2,7 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# _**"Esto"**_ que estuvo haciendo el equipo de desarrollo de Doppler durante 2018
+# _**"Esto"**_ que también está haciendo el equipo de tecnología de Doppler
 
 ---
 name: que-es-esto
@@ -121,7 +121,7 @@ layout: false
 
  — Ver [Accelerate's Trasformation Practices](https://devops-research.com/assets/transformation_practices.pdf)
 
-[Accelerate](https://makingsense.slack.com/files/U04U7GL8D/FFK3H0280/accelerate_-_forsgren_phd.mobi), Extreme Programming, Lean, Deming, Westrum, Uncle Bob, Martin Fowler, Ron Jeffries, etc.
+* [Accelerate](https://makingsense.slack.com/files/U04U7GL8D/FFK3H0280/accelerate_-_forsgren_phd.mobi), [14 puntos de Deming](https://www.educadictos.com/calidad-total-los-14-puntos-de-deming/), [Cultura Generativa de Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22), [DevOps](https://es.atlassian.com/devops), [Lean Manufacturing](https://es.wikipedia.org/wiki/Lean_manufacturing), [Extreme programing](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema), Uncle Bob, [Martin Fowler](https://martinfowler.com/articles/agile-aus-2018.html), [Ron Jeffries](https://ronjeffries.com/categories/success/), etc.
 
 ---
 name: que-tiene-que-ver-con-2018
@@ -134,7 +134,7 @@ En _**"esto"**_ es en lo que nos estuvimos esforzando durante 2018, tenemos vari
 
 Ejemplos:
 
-* Estamos trabajando en _desarmar_ Doppler (micro-servicios).
+* Estamos trabajando en [_desarmar_ Doppler](https://gist.github.com/andresmoschini/14fea591110fba4f6fc496f1ad1cb27e) (micro-servicios).
 
 * Estamos introduciendo test automatizados con integración continua.
 
