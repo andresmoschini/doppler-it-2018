@@ -4,6 +4,10 @@ class: center, middle, inverse
 ---
 # _**"Esto"**_ que también está haciendo el equipo de tecnología de Doppler
 
+???
+
+Indicar que esto se refiere al tema de transformación cultural, que hay un montón de trabajo y features que se estuvieron haciendo en 2018.
+
 ---
 name: que-es-esto
 layout: false
@@ -80,6 +84,10 @@ layout: false
 
 * Dejar de depender de la inspección para asegurar la calidad. AKA, inyectar la calidad en el proceso.
 
+???
+
+Ejemplo de los sacapuntas, y por que en nuestro rubro es peor aún.
+
 --
 
 * Remover barreras y elementos que privan a la gente de estar orgullosa de su trabajo.
@@ -121,7 +129,7 @@ layout: false
 
  — Ver [Accelerate's Trasformation Practices](https://devops-research.com/assets/transformation_practices.pdf)
 
-* [Accelerate](https://makingsense.slack.com/files/U04U7GL8D/FFK3H0280/accelerate_-_forsgren_phd.mobi), [14 puntos de Deming](https://www.educadictos.com/calidad-total-los-14-puntos-de-deming/), [Cultura Generativa de Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22), [DevOps](https://es.atlassian.com/devops), [Lean Manufacturing](https://es.wikipedia.org/wiki/Lean_manufacturing), [Extreme programing](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema), Uncle Bob, [Martin Fowler](https://martinfowler.com/articles/agile-aus-2018.html), [Ron Jeffries](https://ronjeffries.com/categories/success/), etc.
+* [Accelerate](https://makingsense.slack.com/files/U04U7GL8D/FFK3H0280/accelerate_-_forsgren_phd.mobi), [14 puntos de Deming](https://www.educadictos.com/calidad-total-los-14-puntos-de-deming/), [Cultura Generativa de Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22), [DevOps](https://es.atlassian.com/devops), [Lean Manufacturing](https://es.wikipedia.org/wiki/Lean_manufacturing), [Extreme programing](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema), [Uncle Bob](https://www.youtube.com/playlist?list=PLEMyUWan0SG6OLZEOu0ZPd5z4Q5QAw8zh), [Martin Fowler](https://martinfowler.com/articles/agile-aus-2018.html), [Ron Jeffries](https://ronjeffries.com/categories/success/), etc.
 
 ---
 name: que-tiene-que-ver-con-2018
@@ -143,6 +151,12 @@ Ejemplos:
 * Estamos aprendiendo a trabajar en pasos más pequeños.
 
 * Estamos más orgullosos de nuestro trabajo y de nuestro producto.
+
+* Mayor colaboración, trabajo en equipo y ownership
+
+???
+
+Pedir ayuda al equipo para dar más ejemplos.
 
 --
 
