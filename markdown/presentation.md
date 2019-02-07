@@ -146,7 +146,7 @@ Ejemplos:
 
 * Estamos introduciendo test automatizados con integración continua.
 
-* Estamos introduciendo _continuous development_.
+* Estamos introduciendo _continuous deployment_.
 
 * Estamos aprendiendo a trabajar en pasos más pequeños.
 
